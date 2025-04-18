@@ -7,7 +7,7 @@ function TelaTipoAcesso() {
   return (
     <>
       <div>
-        <h1>AQUI VAI O HTML</h1>
+        <h1>AQUI VAI O HTML da tela de tipo de acesso chamando os componentes</h1>
       </div>
     </>
   )
